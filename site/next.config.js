@@ -2,10 +2,10 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    name: 'Fortified Desk Attempt',
+    description: 'My first attempt at creating a custom workspace registry in Kasm.',
+    icon: 'http://fortifieddesk.com/wp-content/uploads/2024/04/cropped-Lock-Transparent-Bkgd2.png',
+    listUrl: 'https://fourcoogs.github.io/kasm-registry/',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
